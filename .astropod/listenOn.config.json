@@ -1,12 +1,12 @@
 {
-  "spotify": "",
-  "googlePodcast": "",
-  "applePodcast": "",
+  "amazonMusic": "https://music.amazon.com/podcasts/73fb9e96-2488-42e4-b4b6-7ed573922ac7",
   "easyPodcast": "",
-  "amazonMusic": "",
-  "fountain": "",
-  "ivoox": "",
-  "pocketcasts": "",
   "deezer": "",
-  "acastPodcasts": ""
+  "applePodcast": "https://podcasts.apple.com/us/podcast/french-explained/id1689903872",
+  "ivoox": "",
+  "googlePodcast": "",
+  "acastPodcasts": "https://shows.acast.com/french-explained",
+  "fountain": "",
+  "spotify": "https://open.spotify.com/show/22Hkdp9LppoBg5JJBrBefU",
+  "pocketcasts": ""
 }
