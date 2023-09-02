@@ -1,8 +1,8 @@
 {
-  "name": "astropod",
-  "description": "Astropod is a free and open-source serverless podcast template. Host your podcast for free using online third-party services.",
+  "name": "french-explained",
+  "description": "Join your two hosts explaining French grammar and vocab concepts in a fun and easy format.",
   "type": "module",
-  "author": "Manuel Ernesto Garcia",
+  "author": "Manuel Ernesto Garcia & LKW",
   "version": "1.0.0",
   "private": true,
   "scripts": {
